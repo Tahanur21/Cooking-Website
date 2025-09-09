@@ -1,0 +1,9 @@
+#nav-link a{
+    color: white;
+    font-weight: bold;
+}
+#nav-link a.active{
+    background-color: white;
+    color: rgb(194, 165, 34);
+    border: 2px solid rgb(194, 165, 34);
+}
